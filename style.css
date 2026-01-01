@@ -17,7 +17,7 @@ header{
     align-items: center;
     justify-content: center;
     gap: 5rem;
-    background-color: rgba(0, 0, 0, 0.621);
+    background-color: rgba(0, 0, 0, 0.6);
     backdrop-filter: blur(8px);
     color: white;
     padding: 0.5rem 1.5rem;
